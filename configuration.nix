@@ -12,11 +12,8 @@
     ./module/hardware.nix
     ./module/keyboard.nix
     ./module/locale.nix
-    ./module/misc.nix
     ./module/monitor.nix
     ./module/network.nix
-    ./module/package.nix
-    ./module/system.nix
     ./module/user.nix
     ./module/window.nix
   ];
